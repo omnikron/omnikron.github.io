@@ -1,0 +1,11 @@
+# Site settings
+title: 'oli barnett: ruby on rails developer'
+email: himself@olibarnett.com
+description: "i am a ruby on rails web developer living in Berlin"
+username: omnikron
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: rouge
